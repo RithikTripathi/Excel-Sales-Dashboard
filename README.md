@@ -1,2 +1,2 @@
 # Excel-Sales-Dashboard
-Using advanced concepts of md excel, A simple and dynamic Dashboard designed to provide insights precisely.
+Using sophisticated Excel principles, a straightforward, dynamic dashboard created to deliver accurate insights.
